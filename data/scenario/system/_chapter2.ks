@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/cluttered_busy_desk.jpg"  ]
+[preload  storage="./data/bgimage/dark_library_corridor.jpg"  ]
+[preload  storage="./data/bgimage/clean_office_space.jpg"  ]
+[preload  storage="./data/bgimage/late_night_workspace.jpg"  ]
+[preload  storage="./data/bgimage/cozy_evening_cafe.jpg"  ]
+[preload  storage="./data/bgimage/black"  ]
+[return]

@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/peaceful_morning_desk.jpg"  ]
+[preload  storage="./data/fgimage/undefined"  ]
+[preload  storage="./data/bgimage/clean_office_space.jpg"  ]
+[preload  storage="./data/bgimage/blue_screen_night.jpg"  ]
+[preload  storage="./data/bgimage/late_night_workspace.jpg"  ]
+[return]
